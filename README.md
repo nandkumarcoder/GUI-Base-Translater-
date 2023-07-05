@@ -1,2 +1,2 @@
-# translator
-inter bharat project  
+# translater
+inter Bharat project  
